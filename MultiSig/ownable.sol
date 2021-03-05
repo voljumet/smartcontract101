@@ -16,8 +16,4 @@ contract Ownable {
         owner = false;
         _; // run the function
     }
-
-    
-    
-    
 }
